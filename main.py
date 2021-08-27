@@ -1,7 +1,4 @@
-import time
 from selenium import webdriver
-import requests
-from bs4 import BeautifulSoup
 import keyboard
 from selenium.webdriver.common.keys import Keys
 
